@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.wallpapersafari.com/62/81/YVMs1a.jpg)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg)
 <h1 align="center">Hi 👋, I'm Guar Bey</h1>
 <h3 align="center">A passionate Cyber Security developer from Turkey</h3>
 
