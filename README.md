@@ -1,4 +1,4 @@
-[![MasterHead](https://i0.wp.com/anadolupanteri.net/wp-content/uploads/2018/12/tux_linux_penguin_code_binary.jpg?fit=520%2C292&ssl=1)
+[![MasterHead]([https://i0.wp.com/anadolupanteri.net/wp-content/uploads/2018/12/tux_linux_penguin_code_binary.jpg?fit=520%2C292&ssl=1](https://trashbox.ru/files/1195713_4d3ab0/linux.jpeg))
 <h1 align="center">Hi 👋, I'm Guar Bey</h1>
 <h3 align="center">A passionate Cyber Security developer from Turkey</h3>
 
