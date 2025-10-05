@@ -1,4 +1,4 @@
-[![MasterHead](https://www.pngplay.com/wp-content/uploads/13/Software-Engineering-Transparent-File.png)
+[![MasterHead](https://static.vecteezy.com/system/resources/thumbnails/049/610/050/small_2x/ai-robot-thinking-side-view-isolated-on-transparent-background-png.png)
 <h1 align="center">Hi 👋, I'm Guarbey</h1>
 <h3 align="center">My name is Mehmet and I'm 18 years old! I'm interests with Cyber Security & Reverse Engineering , Software Development, .NET Technologies</h3>
 
